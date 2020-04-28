@@ -1,17 +1,6 @@
 theme: jekyll-theme-cayman
-Statistically Design an Experiment
-
-tl;dr
-
-This is the last one
-Turn this by the due date. 
-Write it in an R markdown and submit knitted html
-You can collaborate in so far as giving and receiving feedback from colleagues.
-5 pts per item!
-For a rubric on how to write this, see Chapter 10.3 in JABSTB. Follow that multi-step format!!!
 
 ```{r message=FALSE, warning=FALSE}
-##setwd("~/Documents/Emory/IBS538")
 library(tidyverse)
 library(ez)
 library(viridis)
