@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-
 ```{r message=FALSE, warning=FALSE}
 library(tidyverse)
 library(ez)
@@ -9,7 +8,6 @@ library(viridis)
 Provide a brief background and significance about a specific research problem that interests you. It could be project you’re involved with now, or a rotation project, or something you’d like to work on. The reader will need to understand enough background to make sense of the experiment you propose below. Keep it brief. In one short paragraph.
 
 **Many treatments have been considered for the novel SARS-CoV2, which causes COVID-19. Some of the treatments include NHC, remdesivir, and chloroquine, some of which have have had dose and cytotoxicity experiments in cell lines but it is important to do an in vivo experiment before considering clinical trials. One of the main reasons that SARS-CoV2 can have such a detrimental affect on the body is because of the immune response that it causes. It is actually your own immune system which causes tha damage in the body. Due to that, in vivo experiments are needed to have a complete picture on the efficacy of potential drugs. Viral load measured by plaque assay in plaque forming units/ml. Placebo control with no drug is also used in experiment. Mice will be infected with same SARS-CoV2 strain, given treatment at the same time and then 5 days post infection viral loads in the lung will be measured.**
-
 
 ## 2) 
 Briefly state something that is unknown about this system that can be discovered through, and leads to, an experiment.  For example, "It is not known whether....."
